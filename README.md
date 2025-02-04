@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Lilly! 👋  
 
-<!--
-**liveley/liveley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 sth else here | 🎨 Computer Science & Design Student | 📚 Lifelong Learner  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a **computer science and design student** passionate about **AI, UX/UI, and creative coding**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools  
+- **Languages:** Python   
+- **Tools:** Git, GitHub, GitLab, Adobe Illustrator, Adobe InDesign    
+
+### 🚀 Here are some ideas to get you started:  
+- 📫 How to reach me: **aily.goes.forever@gmail.com**  
+- 😄 Pronouns: **she/her**  
+- ⚡ Fun fact: **I can read 40+ books a month 📖⚡ and always fall into new rabbit holes!!**  
+
+### 📊 GitHub Stats  
+![Lilly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liveley&show_icons=true&theme=radical)  
+
+### 🎭 When I'm not coding, you can find me:  
+- 📖 Reading romantasy & self-growth books  
+- 🎲 Playing board & card games  
+- 🍳 Cooking & baking  
+- 🌐 Following the latest in the crypto/NFT space
+- 🚴‍♀️ Cycling 
+- 🔍 Deep-diving into random topics  
