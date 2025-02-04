@@ -1,6 +1,6 @@
 # Hi there, I'm Lilly! 👋  
 
-🚀 sth else here | 🎨 Computer Science & Design Student | 📚 Lifelong Learner  
+🎨 Computer Science & Design Student | 📚 Lifelong Learner  
 
 Welcome to my GitHub profile! I'm a **computer science and design student** passionate about **AI, UX/UI, and creative coding**.  
 
