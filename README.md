@@ -13,9 +13,6 @@ Welcome to my GitHub profile! I'm a **computer science and design student** pass
 - 😄 Pronouns: **she/her**  
 - ⚡ Fun fact: **I can read 40+ books a month 📖⚡ and always fall into new rabbit holes!!**  
 
-### 📊 GitHub Stats  
-![Lilly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liveley&show_icons=true&theme=radical)  
-
 ### 🎭 When I'm not coding, you can find me:  
 - 📖 Reading romantasy & self-growth books  
 - 🎲 Playing board & card games  
