@@ -17,6 +17,6 @@ Welcome to my GitHub profile! I'm a **computer science and design student** pass
 - 📖 Reading romantasy & self-growth books  
 - 🎲 Playing board & card games  
 - 🍳 Cooking & baking  
-- 🌐 Following the latest in the crypto/NFT space
+- 🌐 Following the latest news in the crypto & NFT space
 - 🚴‍♀️ Cycling 
 - 🔍 Deep-diving into random topics  
