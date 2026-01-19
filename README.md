@@ -22,7 +22,7 @@ AI in products and workflows · UX/UI · creative coding · data visualization �
 ## Contact
 
 * **Email:** [liveley.workflows@gmail.com](mailto:liveley.workflows@gmail.com)
-* **LinkedIn:** linkedin.com/in/liliane-schutz
+* **LinkedIn:** [linkedin.com/in/liliane-schutz](https://www.linkedin.com/in/liliane-schutz)
 
 ## About me
 
